@@ -2,10 +2,13 @@
 
 .container {
 	background-color: #f5f5f5;
+	padding: 40px;
 }
 
 .testimonial {
-	
+	border: 1px solid lightgray;
+	background-color: white;
+	padding: 16px;
 }
 
 .author {
